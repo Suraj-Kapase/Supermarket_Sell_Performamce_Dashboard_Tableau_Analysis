@@ -56,7 +56,7 @@ This Tableau project explores and visualizes sales performance data of a fiction
 
 ---
 
-## 🔗 View Live Dashboard (Optional)
+## 🔗 View Live Dashboard
 
 [👉 View on Tableau Public](https://public.tableau.com/app/profile/suaj.kapase/viz/Project_1_17505769591620/Dashboard1?publish=yes)
 
