@@ -4,7 +4,6 @@ This Tableau project explores and visualizes sales performance data of a fiction
 
 ## 📊 Dashboard Preview
 
-"https://public.tableau.com/app/profile/suaj.kapase/viz/Project_1_17505769591620/Dashboard1?publish=yes"
 *A visually interactive Tableau dashboard with sales KPIs, top categories, customer insights, and more.*
 
 ---
